@@ -1,0 +1,6 @@
+framework module Pods_ADSwift_Player {
+  umbrella header "Pods-ADSwift-Player-umbrella.h"
+
+  export *
+  module * { export * }
+}
